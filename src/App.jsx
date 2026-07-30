@@ -10,7 +10,7 @@ export default function App() {
       <nav className="navbar">
         <div className="nav-brand">
           <span className="logo-icon">⚡</span>
-          <span className="logo-text">APM ADZ</span>
+          <span className="logo-text">APMADZ</span>
         </div>
         <div className="nav-actions">
           <a
@@ -97,7 +97,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>© {new Date().getFullYear()} APM ADZ. Built with React & Vite.</p>
+        <p>© {new Date().getFullYear()} APMADZ. Built with React & Vite.</p>
       </footer>
     </div>
   )
